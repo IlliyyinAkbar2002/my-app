@@ -232,7 +232,7 @@ export function Component() {
                   <Input type="email" placeholder="Email" className="w-full" />
                   <Textarea placeholder="Message" className="w-full" rows={5} />
                   <Button type="submit" className="w-full">
-                    Send Message
+                    Send Messages
                   </Button>
                 </form>
               </div>
