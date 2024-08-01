@@ -114,11 +114,10 @@ export function Component() {
             <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
-                  <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">John Doe</h1>
-                  <h2 className="text-xl font-medium text-muted-foreground">UI/UX Designer</h2>
+                  <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">Illiyyin Akbar Ariyanto</h1>
+                  <h2 className="text-xl font-medium text-muted-foreground">Software Engineering</h2>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                    I'm a passionate designer with a focus on creating intuitive and visually appealing user
-                    experiences.
+                    I'm a Software Engineering undergraduate student from Telkom Surabaya Institute of Technology. I'm currently studying the Solidity, Python, Javascript, Rust programming.
                   </p>
                 </div>
               </div>
@@ -136,7 +135,7 @@ export function Component() {
           <div className="container space-y-12 px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">My Design Work</h2>
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">My Project Work</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Here are some of my recent design projects that showcase my skills and creativity.
                 </p>
