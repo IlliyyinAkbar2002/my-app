@@ -305,7 +305,7 @@ export function Component() {
   )
 }
 
-function MenuIcon(props) {
+function MenuIcon(props:  React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -327,7 +327,7 @@ function MenuIcon(props) {
 }
 
 
-function MountainIcon(props) {
+function MountainIcon(props:  React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -347,7 +347,7 @@ function MountainIcon(props) {
 }
 
 
-function XIcon(props) {
+function XIcon(props:  React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
