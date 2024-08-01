@@ -89,7 +89,7 @@ export function Component() {
           <SheetContent side="left">
             <Link href="#" prefetch={false}>
               <MountainIcon className="h-6 w-6" />
-              <span className="sr-only">John Doe's Portfolio</span>
+              <span className="sr-only">Illiyyin Akbar Portfolio</span>
             </Link>
             <div className="grid gap-2 py-6">
               <Link href="#" className="flex w-full items-center py-2 text-lg font-semibold" prefetch={false}>
